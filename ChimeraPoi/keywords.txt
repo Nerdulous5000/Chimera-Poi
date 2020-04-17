@@ -1,0 +1,77 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Color	KEYWORD1
+Pixel   KEYWORD1
+Mode	KEYWORD1
+Page	KEYWORD1
+GravityMode	KEYWORD1
+Particle	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#######
+# Color
+#######
+Color	KEYWORD2
+~Color  KEYWORD2
+Red KEYWORD2
+Green   KEYWORD2
+Blue    KEYWORD2
+Alpha   KEYWORD2
+
+R   KEYWORD2
+G   KEYWORD2
+B   KEYWORD2
+A   KEYWORD2
+
+Recolor KEYWORD2
+
+operator+ KEYWORD2
+operator- KEYWORD2
+
+######
+# Mode
+######
+
+Mode	KEYWORD2
+~Mode	KEYWORD2
+
+# Begin	KEYWORD2
+Next	KEYWORD2
+GetCurrentStrip KEYWORD2
+
+######
+# Page
+######
+
+
+#########
+# GravityMode
+#########
+GravityMode	KEYWORD2
+~GravityMode	KEYWORD2
+Simulate	KEYWORD2
+Next	KEYWORD2
+
+######
+# Particle
+######
+Particle	KEYWORD2
+~Particle	KEYWORD2
+Move	KEYWORD2
+Index	KEYWORD2
+GetColor	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
